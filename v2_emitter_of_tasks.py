@@ -1,5 +1,5 @@
 """
-This program reads temperature data from generated data created in the faker_weather file.
+This program reads temperature data generated using Faker.
 The temperature is read at the top of each hour.
 
 """
