@@ -1,6 +1,6 @@
 ## Tanner Young
-## 5/19/2024
-## https://github.com/TannerYoung13/streaming-07-project1
+# 5/20/2024
+# https://github.com/TannerYoung13/streaming-07-project1
 # streaming-07-project1
 
 ## Real-Time Weather Temperature Monitoring System
@@ -62,7 +62,7 @@ Sample Output:
 The consumer printed the received temperature data along with timestamps.
 Alerts were triggered when significant temperature fluctuations were detected.
 
-## Links
+# Links
 GitHub Repository: https://github.com/TannerYoung13/streaming-07-project1
 Data Source: The temperature data is generated using the Faker library and does not rely on an external data source.
 

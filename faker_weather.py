@@ -25,3 +25,5 @@ def generate_hourly_temperatures():
 hourly_temperatures = generate_hourly_temperatures()
 for entry in hourly_temperatures:
     print(f"Time: {entry['timestamp']}, Temperature: {entry['temperature']}°C")
+
+# Formating
